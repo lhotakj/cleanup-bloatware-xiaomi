@@ -30,4 +30,5 @@ this list is very limited to keep working the MIUI cloud and many Xiaomi apps I 
 
 ## Alternative sources
 Note that is list is proved on Xiaomi Note 7 :)
+
 [1] https://gist.github.com/Biswa96/81fe477079fa5279f7cfd7b98d5519c7
