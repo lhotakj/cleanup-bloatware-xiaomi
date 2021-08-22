@@ -26,6 +26,7 @@ pm uninstall --user 0 com.miui.yellowpage
 pm uninstall --user 0 com.google.android.feedback
 pm uninstall --user 0 com.xiaomi.mipicks
 pm uninstall --user 0 com.miui.msa.global
+pm uninstall --user 0 com.miui.miservice
 ```
 
 Refer to the complete list of bloatware here: https://rootmygalaxy.net/xiaomi-bloatware-list-remove-safely-from-miui/
