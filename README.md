@@ -22,7 +22,10 @@ pm uninstall --user 0 com.tencent.soter.soterserver
 pm uninstall --user 0 com.xiaomi.joyose 
 pm uninstall --user 0 com.xiaomi.location.fused
 pm uninstall --user 0 com.xiaomi.payment
-pm uninstall --user 0 com.miui.yellowpage 
+pm uninstall --user 0 com.miui.yellowpage
+pm uninstall --user 0 com.google.android.feedback
+pm uninstall --user 0 com.xiaomi.mipicks
+pm uninstall --user 0 com.miui.msa.global
 ```
 
 Refer to the complete list of bloatware here: https://rootmygalaxy.net/xiaomi-bloatware-list-remove-safely-from-miui/
